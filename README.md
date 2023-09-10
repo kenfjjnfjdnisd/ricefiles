@@ -1,6 +1,6 @@
 # Dotfiles
  
- # Old rices are on releases page
+ # Gnome Rice 
  
 # Preview:
 
